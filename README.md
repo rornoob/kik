@@ -1,2 +1,0 @@
-# kik
-First Ever
